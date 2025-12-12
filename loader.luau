@@ -191,7 +191,8 @@ local Q = {
     [6331902150] = "https://api.luarmor.net/files/v3/loaders/986f8c7d1a33f1040d7a3cdc02d5504b.lua", -- forsaken
     [6701277882] = "https://api.luarmor.net/files/v3/loaders/327c631d3c9431275e836232deae5c95.lua", -- fish it
     [7709344486] = "https://api.luarmor.net/files/v3/loaders/152436098dce50a55092dc524c4d485a.lua", -- steal a brainrot
-    [66654135] = "https://api.luarmor.net/files/v3/loaders/0cb08504db4379defa3e11f598619b2b.lua" -- murder mystery 2
+    [66654135] = "https://api.luarmor.net/files/v3/loaders/0cb08504db4379defa3e11f598619b2b.lua", -- murder mystery 2
+    [7671049560] = "https://api.luarmor.net/files/v3/loaders/355de71eff2440ed6fb18ca24f7919bd.lua" -- forge
 }
 local function R(S)
     local T = P.check_key(S)
